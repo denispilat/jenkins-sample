@@ -55,6 +55,10 @@ public class AppTest
     
     public void testApp3()
     {
+        assertTrue(false);
+    }
+    public void testApp4()
+    {
         assertTrue( true);
     }
 }
